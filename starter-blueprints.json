@@ -9,7 +9,6 @@
     "blogname": "WordPress Pattern Hands-on"
   },
   "steps": [
-
     {
       "step": "login",
       "username": "admin",
