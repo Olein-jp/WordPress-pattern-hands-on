@@ -20,8 +20,8 @@
     {
       "step": "importWxr",
       "file": {
-        "resource": "url",
-        "url": "https://raw.githubusercontent.com/Olein-jp/WordPress-pattern-hands-on/main/WordPress-pattern-hands-on-cfdemo-content.xml"
+        "url": "https://raw.githubusercontent.com/Olein-jp/WordPress-pattern-hands-on/main/WordPress-pattern-hands-on-cfdemo-content.xml",
+        "resource": "url"
       }
     },
     {
