@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6" created="2024-07-23 02:48" -->
+	<!-- generator="WordPress/6.6.1" created="2024-07-26 07:25" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>wordpress-pattern-handson</title>
-	<link>https://demo.olein-design.com/pattern-hands-on</link>
+	<link>https://honorable-tarantula-0c1a58.instawp.xyz</link>
 	<description></description>
-	<pubDate>Tue, 23 Jul 2024 02:48:24 +0000</pubDate>
+	<pubDate>Fri, 26 Jul 2024 07:25:00 +0000</pubDate>
 	<language>ja</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.olein-design.com/pattern-hands-on</wp:base_site_url>
-	<wp:base_blog_url>https://demo.olein-design.com/pattern-hands-on</wp:base_blog_url>
+	<wp:base_site_url>https://honorable-tarantula-0c1a58.instawp.xyz</wp:base_site_url>
+	<wp:base_blog_url>https://honorable-tarantula-0c1a58.instawp.xyz</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[dev-email@flywheel.local]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -44,14 +44,14 @@
 		<wp:cat_name><![CDATA[ハンズオン課題]]></wp:cat_name>
 	</wp:category>
 				
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 		<item>
 		<title><![CDATA[パターンを配置してみる]]></title>
-		<link>https://demo.olein-design.com/pattern-hands-on/17</link>
+		<link>https://honorable-tarantula-0c1a58.instawp.xyz/17</link>
 		<pubDate>Mon, 22 Jul 2024 06:39:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.olein-design.com/pattern-hands-on/?p=17</guid>
+		<guid isPermaLink="false">https://honorable-tarantula-0c1a58.instawp.xyz/?p=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"border":{"width":"1px"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"base-2","borderColor":"accent-5","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-accent-5-border-color has-base-2-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"large"} -->
@@ -87,7 +87,7 @@
 <!-- /wp:list -->
 
 <!-- wp:image {"id":10,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://demo.olein-design.com/pattern-hands-on/wp-content/uploads/2024/07/image-1.png" alt="" class="wp-image-10"/></figure>
+<figure class="wp-block-image size-full"><img src="https://honorable-tarantula-0c1a58.instawp.xyz/wp-content/uploads/2024/07/image-1.png" alt="" class="wp-image-10"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -109,10 +109,10 @@
 						</item>
 					<item>
 		<title><![CDATA[ブロックを配置してパターンに登録してみる（非同期）]]></title>
-		<link>https://demo.olein-design.com/pattern-hands-on/19</link>
+		<link>https://honorable-tarantula-0c1a58.instawp.xyz/19</link>
 		<pubDate>Mon, 22 Jul 2024 06:44:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.olein-design.com/pattern-hands-on/?p=19</guid>
+		<guid isPermaLink="false">https://honorable-tarantula-0c1a58.instawp.xyz/?p=19</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"border":{"width":"1px"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"base-2","borderColor":"accent-5","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-accent-5-border-color has-base-2-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"large"} -->
@@ -167,7 +167,7 @@
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}},"border":{"width":"1px"}},"borderColor":"accent-5","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-accent-5-border-color" style="border-width:1px;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:group {"metadata":{"name":"サンプル"},"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:image {"id":21,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://demo.olein-design.com/pattern-hands-on/wp-content/uploads/2024/07/staff01.jpg" alt="" class="wp-image-21"/></figure>
+<figure class="wp-block-image size-full"><img src="https://honorable-tarantula-0c1a58.instawp.xyz/wp-content/uploads/2024/07/staff01.jpg" alt="" class="wp-image-21"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"fontSize":"small","layout":{"type":"flex","orientation":"vertical"}} -->
@@ -212,10 +212,10 @@
 						</item>
 					<item>
 		<title><![CDATA[同期パターンとして登録してみる]]></title>
-		<link>https://demo.olein-design.com/pattern-hands-on/33</link>
+		<link>https://honorable-tarantula-0c1a58.instawp.xyz/33</link>
 		<pubDate>Mon, 22 Jul 2024 09:56:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.olein-design.com/pattern-hands-on/?p=33</guid>
+		<guid isPermaLink="false">https://honorable-tarantula-0c1a58.instawp.xyz/?p=33</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"border":{"width":"1px"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"base-2","borderColor":"accent-5","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-accent-5-border-color has-base-2-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"large"} -->
@@ -287,10 +287,10 @@
 						</item>
 					<item>
 		<title><![CDATA[同期パターン内のブロックを上書き可能に設定してみる]]></title>
-		<link>https://demo.olein-design.com/pattern-hands-on/40</link>
+		<link>https://honorable-tarantula-0c1a58.instawp.xyz/40</link>
 		<pubDate>Mon, 22 Jul 2024 10:32:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.olein-design.com/pattern-hands-on/?p=40</guid>
+		<guid isPermaLink="false">https://honorable-tarantula-0c1a58.instawp.xyz/?p=40</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"border":{"width":"1px"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"base-2","borderColor":"accent-5","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-accent-5-border-color has-base-2-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"large"} -->
@@ -346,10 +346,10 @@
 						</item>
 					<item>
 		<title><![CDATA[image]]></title>
-		<link>https://demo.olein-design.com/pattern-hands-on/40/image</link>
+		<link>https://honorable-tarantula-0c1a58.instawp.xyz/40/image</link>
 		<pubDate>Mon, 22 Jul 2024 10:43:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.olein-design.com/pattern-hands-on/wp-content/uploads/2024/07/image.png</guid>
+		<guid isPermaLink="false">https://honorable-tarantula-0c1a58.instawp.xyz/wp-content/uploads/2024/07/image.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -367,7 +367,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.olein-design.com/pattern-hands-on/wp-content/uploads/2024/07/image.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://honorable-tarantula-0c1a58.instawp.xyz/wp-content/uploads/2024/07/image.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/image.png]]></wp:meta_value>
@@ -379,10 +379,10 @@
 							</item>
 					<item>
 		<title><![CDATA[実用的なコンテンツを作ってみる - 1]]></title>
-		<link>https://demo.olein-design.com/pattern-hands-on/60</link>
+		<link>https://honorable-tarantula-0c1a58.instawp.xyz/60</link>
 		<pubDate>Mon, 22 Jul 2024 22:37:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.olein-design.com/pattern-hands-on/?p=60</guid>
+		<guid isPermaLink="false">https://honorable-tarantula-0c1a58.instawp.xyz/?p=60</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"border":{"width":"1px"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"base-2","borderColor":"accent-5","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-accent-5-border-color has-base-2-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"large"} -->
@@ -402,7 +402,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":48,"sizeSlug":"full","linkDestination":"none","align":"wide"} -->
-<figure class="wp-block-image alignwide size-full"><img src="http://demo.olein-design.com/pattern-hands-on/wp-content/uploads/2024/07/image.png" alt="" class="wp-image-48"/><figcaption class="wp-element-caption">グリッドブロックを使用しています</figcaption></figure>
+<figure class="wp-block-image alignwide size-full"><img src="https://honorable-tarantula-0c1a58.instawp.xyz/wp-content/uploads/2024/07/image.png" alt="" class="wp-image-48"/><figcaption class="wp-element-caption">グリッドブロックを使用しています</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -428,10 +428,10 @@
 						</item>
 					<item>
 		<title><![CDATA[実用的なコンテンツを作ってみる - 2]]></title>
-		<link>https://demo.olein-design.com/pattern-hands-on/63</link>
+		<link>https://honorable-tarantula-0c1a58.instawp.xyz/63</link>
 		<pubDate>Tue, 23 Jul 2024 02:11:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://demo.olein-design.com/pattern-hands-on/?p=63</guid>
+		<guid isPermaLink="false">https://honorable-tarantula-0c1a58.instawp.xyz/?p=63</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"border":{"width":"1px"},"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"var:preset|spacing|20","right":"var:preset|spacing|20"}}},"backgroundColor":"base-2","borderColor":"accent-5","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-accent-5-border-color has-base-2-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><!-- wp:heading {"level":3,"fontSize":"large"} -->
@@ -471,7 +471,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":73,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://demo.olein-design.com/pattern-hands-on/wp-content/uploads/2024/07/image-2-1024x335.png" alt="" class="wp-image-73"/></figure>
+<figure class="wp-block-image size-large"><img src="https://honorable-tarantula-0c1a58.instawp.xyz/wp-content/uploads/2024/07/image-2-1024x335.png" alt="" class="wp-image-73"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -497,10 +497,10 @@
 						</item>
 					<item>
 		<title><![CDATA[shop01]]></title>
-		<link>https://demo.olein-design.com/pattern-hands-on/63/shop01</link>
+		<link>https://honorable-tarantula-0c1a58.instawp.xyz/63/shop01</link>
 		<pubDate>Mon, 22 Jul 2024 23:20:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.olein-design.com/pattern-hands-on/wp-content/uploads/2024/07/shop01.jpg</guid>
+		<guid isPermaLink="false">https://honorable-tarantula-0c1a58.instawp.xyz/wp-content/uploads/2024/07/shop01.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -518,7 +518,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.olein-design.com/pattern-hands-on/wp-content/uploads/2024/07/shop01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://honorable-tarantula-0c1a58.instawp.xyz/wp-content/uploads/2024/07/shop01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/shop01.jpg]]></wp:meta_value>
@@ -530,10 +530,10 @@
 							</item>
 					<item>
 		<title><![CDATA[image]]></title>
-		<link>https://demo.olein-design.com/pattern-hands-on/63/image-3</link>
+		<link>https://honorable-tarantula-0c1a58.instawp.xyz/63/image-3</link>
 		<pubDate>Mon, 22 Jul 2024 23:36:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://demo.olein-design.com/pattern-hands-on/wp-content/uploads/2024/07/image-2.png</guid>
+		<guid isPermaLink="false">https://honorable-tarantula-0c1a58.instawp.xyz/wp-content/uploads/2024/07/image-2.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -551,7 +551,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://demo.olein-design.com/pattern-hands-on/wp-content/uploads/2024/07/image-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://honorable-tarantula-0c1a58.instawp.xyz/wp-content/uploads/2024/07/image-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/image-2.png]]></wp:meta_value>
