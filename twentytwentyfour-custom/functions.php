@@ -221,23 +221,63 @@ add_action( 'after_setup_theme', 'tt4_child_theme_support' );
  */
 function tt4_starter_content() {
 	$starter_content = array(
-		'posts' => array(
+		'posts'       => array(
+			'front',
+			'blog',
 			'post1' => array(
 				'post_type'    => 'post',
 				'post_title'   => '投稿1です',
+				'thumbnail'    => '{{image-opening}}',
 				'post_content' => join(
 					'',
 					array(
 						'<!-- wp:paragraph -->',
-						'<p>スターターコンテンツです。投稿サンプルです。</p>',
+						'<p>投稿サンプルです。</p>',
+						'<!-- /wp:paragraph -->',
+					)
+				),
+			),
+			'post2' => array(
+				'post_type'    => 'post',
+				'post_title'   => '重要なお知らせ',
+				'thumbnail'    => '{{image-opening}}',
+				'post_content' => join(
+					'',
+					array(
+						'<!-- wp:paragraph -->',
+						'<p>投稿サンプルです。</p>',
+						'<!-- /wp:paragraph -->',
+					)
+				),
+			),
+			'post3' => array(
+				'post_type'    => 'post',
+				'post_title'   => '制作実績を更新しました',
+				'thumbnail'    => '{{image-opening}}',
+				'post_content' => join(
+					'',
+					array(
+						'<!-- wp:paragraph -->',
+						'<p>投稿サンプルです。</p>',
 						'<!-- /wp:paragraph -->',
 					)
 				),
 			),
 		),
+		'options'     => array(
+			'show_on_front'  => 'page',
+			'page_on_front'  => '{{front}}',
+			'page_for_posts' => '{{blog}}',
+		),
+
 	);
 
-	return $starter_content;
+	/**
+	 * Filters Futuristic array of starter content.
+	 *
+	 * @param array $starter_content Array of starter content.
+	 */
+	return apply_filters( 'hamworks_starter_content', $starter_content );
 }
 
 /**
