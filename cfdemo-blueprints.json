@@ -18,20 +18,13 @@
       "password": "password"
     },
     {
-      "step": "importWxr",
-      "file": {
-        "url": "https://raw.githubusercontent.com/Olein-jp/WordPress-pattern-hands-on/main/WordPress-pattern-hands-on-cfdemo-content.xml",
-        "resource": "url"
-      }
-    },
-    {
       "step": "installTheme",
       "themeZipFile": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/Olein-jp/WordPress-pattern-hands-on/main/tt4-child.zip"
+        "url": "https://raw.githubusercontent.com/Olein-jp/WordPress-pattern-hands-on/main/twentytwentyfour-custom.zip"
       },
       "options": {
-        "activate": false
+        "activate": true
       }
     }
   ]
